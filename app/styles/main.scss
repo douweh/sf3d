@@ -1,0 +1,27 @@
+#map2d {
+  position: absolute;
+  left: 0px;
+  right: 50%;
+  bottom: 0px;
+  top: 0px;
+}
+
+#map3d {
+  position: absolute;
+  left: 50%;
+  right: 0px;
+  bottom: 0px;
+  top: 0px;
+}
+
+#instructie {
+  position: absolute;
+  padding: 10px;
+  left: 30%;
+  right: 30%;
+  bottom: 10px;
+  background-color: white;
+  border: 2px solid black;
+  vertical-align: middle;
+  text-align: center;
+}
